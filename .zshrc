@@ -19,6 +19,7 @@ alias vim="nvim"
 alias discord="screen -dmS Discord flatpak run com.discordapp.Discord"
 alias files="nautilus"
 
+
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
 # a theme from this variable instead of looking in $ZSH/themes/
